@@ -2,4 +2,4 @@
 
 Name:MARADANA SIVA KUMAR
 
-[CRS-2016 MARADANA SIVA KUMAR](./CRS-2016/README.md)
+[Mattix inverse c program](./CRS-2016/mat_inv3.c)
