@@ -4,4 +4,4 @@ Name:MARADANA SIVA KUMAR
 
 [04/10/2021  Matrix inv](./mat_inv3.c)
 
-[08/10/2021 Assignment-2](./assignment_2.pdf)
+[04/10/2021 Assignment-2](./assignment_2.pdf)
