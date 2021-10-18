@@ -2,4 +2,6 @@
 
 Name: SOUMYA KANTI SAHA
 
-[Matrix Inversion C program](./mat_inv.c)
+[04/10/2021-Matrix Inversion C program](./mat_inv.c)
+
+[08/10/2021 Assignment](./Ass3)
