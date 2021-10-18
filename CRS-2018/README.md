@@ -2,6 +2,6 @@
 
 Name: Indranil
 
-[4th oct 2021- Assignment](./5thoct2021-Assg.pdf)
+[4th oct 2021- Assignment](./4.pdf)
 
-[8th oct 2021- Assignment](./8thoct2021-assg.pdf)
+[8th oct 2021- Assignment](./8.pdf)
