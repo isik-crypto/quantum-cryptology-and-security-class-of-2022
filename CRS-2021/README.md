@@ -13,3 +13,5 @@ Name: Subha Kar
 [Assignment-6 finding unitrary matrix M](./Assignment-6.pdf)
 
 [Superdense Coding](./densecoding.pdf)
+
+[No cloning](./No cloning.pdf)
