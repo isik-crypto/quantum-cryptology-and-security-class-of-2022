@@ -14,4 +14,4 @@ Name: Subha Kar
 
 [Superdense Coding](./densecoding.pdf)
 
-[No cloning](./No cloning.pdf)
+[No cloning](./Nocloning.pdf)
