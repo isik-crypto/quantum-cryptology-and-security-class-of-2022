@@ -12,4 +12,4 @@ Name: SOUMYA KANTI SAHA
 
 [25/10/2021 Assignment](./Ass-5.pdf)
 
-[29/10/2021 Assignment](./Ass-6.pdf,./dense_coding.pdf)
+[29/10/2021 Assignment](./Ass-6.pdf)
