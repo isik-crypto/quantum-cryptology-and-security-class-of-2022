@@ -16,4 +16,4 @@ Name: Subha Kar
 
 [No cloning](./Nocloning.pdf)
 
-[Duetch Jozsa f(x1,x2,x3) = x1x2+x2x3+x3x1](./DJf=x1x2+x2x… (auto-3 _ 2) - JupyterLab.pdf)
+[Duetch Jozsa f(x1,x2,x3) = x1x2+x2x3+x3x1](./DJ.pdf)
