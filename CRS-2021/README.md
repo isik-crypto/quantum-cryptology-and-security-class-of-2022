@@ -19,3 +19,5 @@ Name: Subha Kar
 [Duetch Jozsa f(x1,x2,x3) = x1x2+x2x3+x3x1](./DJ.pdf)
 
 [Duetch Jozsa for a constant function](./DJconstant.pdf)
+
+[simons algorithm for finding shift](./simons.pdf)
