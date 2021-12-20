@@ -14,4 +14,4 @@ Name: SOUMYA KANTI SAHA
 
 [29/10/2021 Assignment](./Ass-6.pdf)
 
-[03/12/2021 Midsem](./Midsem quantum.pdf)
+[03/12/2021 Midsem](./Midsem_quantum.pdf)
