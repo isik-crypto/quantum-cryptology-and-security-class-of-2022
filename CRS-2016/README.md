@@ -15,4 +15,6 @@ Name:MARADANA SIVA KUMAR
 
 [29/10/2021 Assignment-6](./qc_ass6_crs2016(1).pdf)
 
+[21/12/2021 Assignment-8(d)](./DH_key_exchange.c)
+
 [29/12/2021 Assignment-9](./hamming_code_7_4.c)
