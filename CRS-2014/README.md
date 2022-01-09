@@ -14,7 +14,7 @@
 
 [No Cloning Theorem](./No%20Cloning%20Theorem.pdf)
 
-[Dense Coding](./Dense%20Coding.pdf)
+[Dense Coding Theorem](./Dense%20Coding.pdf)
 
 [Midterm Exam CrS2014](./Midterm%20exam.pdf)
 
