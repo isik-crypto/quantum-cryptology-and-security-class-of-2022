@@ -1,6 +1,6 @@
 # Tufan Singha Mahapatra / CrS 2014
 
-[Assignment-1(Matrix Inverse)](./matrixinverse.c)
+[Assignment-1(C Programming for Matrix Inverse)](./matrixinverse.c)
 
 [Assignment-2](./Assignment-2.pdf)
 
