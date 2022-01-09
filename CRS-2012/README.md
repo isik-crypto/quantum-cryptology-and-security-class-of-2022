@@ -3,8 +3,10 @@
 Name: SOHAM SANJAY ZEMSE
 
 - [Assignment 1 Matrix Inversion](./matrix-inversion.c)
+- [Assignment 2](./Quantum%20Assignment%202.pdf)
 - [Assignment 3](./Assignment-3.pdf)
 - [Assignment 4](./Assignment-4.pdf)
+- [Assignment 5](./Quantum%20Assignment%205.pdf)
 
 Videos watched:
 
