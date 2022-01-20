@@ -5,3 +5,7 @@ Name: Matta Uma Maheswara Reddy
 [Assignment 4](./Quantum_Assignment4_CRS2017.pdf)
 
 [Assignment 5](./Quantum_Assignment5_CRS2017.pdf)
+
+[Assignment 6](./Quantum_Assignment6_CRS2017.pdf)
+
+
