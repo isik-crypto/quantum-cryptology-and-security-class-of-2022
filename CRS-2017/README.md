@@ -8,4 +8,6 @@ Name: Matta Uma Maheswara Reddy
 
 [Assignment 6](./Quantum_Assignment6_CRS2017.pdf)
 
+[Hamming Code for Encoding](./hamc.c)
+
 
