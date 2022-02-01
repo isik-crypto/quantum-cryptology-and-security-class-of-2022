@@ -19,6 +19,6 @@
 
 [Midterm Exam CrS2014](./Midterm%20exam.pdf)
 
-[Deutsch Josa implemantation for a given function](./Deutsch%20jozsa%20implementation.pdf)
+[Deutsch Josa implemantation for a given function](./Deutsch_Jozsa_implementation.pdf)
 
-[Deutsch Josa implemantation for Constant function](./DJ%20for%20Constant%20Function-jupyterLab.pdf)
+[Deutsch Josa implemantation for Constant function](./DJ_for_Constant_Function - JupyterLab.pdf)
