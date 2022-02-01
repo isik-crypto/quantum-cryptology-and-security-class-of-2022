@@ -11,7 +11,7 @@
 
 [Assignment-5](./Assignment-5.pdf)
 
-[Assignment-6_Unitary Matrix](./Assignment-6_Unitary matrix.pdf)
+[Assignment-6_Unitary Matrix](./Assignment-6_Unitary_Matrix.pdf)
 
 [No Cloning Theorem](./No%20Cloning%20Theorem.pdf)
 
