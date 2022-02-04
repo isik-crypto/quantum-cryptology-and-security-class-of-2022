@@ -22,4 +22,4 @@ Name: Subha Kar
 
 [simons algorithm for finding shift](./simons.pdf)
 
-[quantum Parallelism](./quantum parallelism.pdf)
+[quantum Parallelism](/quantum parallelism.pdf)
