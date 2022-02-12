@@ -11,3 +11,5 @@ Name: Subir Kumar Paul
 [Assignment 5](./Assignment_5.pdf)
 
 [Assignment 6](./Assignment_6.pdf)
+
+[Hamming code](./Hamming.c)
