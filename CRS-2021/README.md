@@ -27,3 +27,5 @@ Name: Subha Kar
 [Midsem](/Q-exam.pdf)
 
 [Diffie-Hellman key exchange](/deffi.c)
+
+[Hamming Code](/hamming.c)
