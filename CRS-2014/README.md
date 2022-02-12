@@ -24,3 +24,6 @@
 [Deutsch Josa implemantation for Constant function](./DJ_for_Constant_Function.pdf)
 
 [Hamming Code Implementation in C ](./Hamming_code.c)
+
+[End Semester Exam CrS2014](./Endsem_Exam.pdf)
+
