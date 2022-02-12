@@ -4,6 +4,8 @@ Name: Subha Kar
 
 [Assignment-1](./matrixinverse.c)
 
+[Assignment-2](./assign-2.pdf)
+
 [Assignment-3](./Assignment-3.pdf)
 
 [Assignment-4](./Assignment-4.pdf)
