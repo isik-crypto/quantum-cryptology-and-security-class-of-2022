@@ -22,3 +22,5 @@
 [Deutsch Josa implemantation for a given function](./Deutsch_Jozsa_implementation.pdf)
 
 [Deutsch Josa implemantation for Constant function](./DJ_for_Constant_Function.pdf)
+
+[Hamming Code Implementation in C ](./Hamming_code.c)
