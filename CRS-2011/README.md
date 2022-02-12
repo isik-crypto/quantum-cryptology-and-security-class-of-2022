@@ -13,3 +13,5 @@ Name: Subir Kumar Paul
 [Assignment 6](./Assignment_6.pdf)
 
 [No cloning theorem](./No-cloning-theorem.pdf)
+
+[Hamming Code](./Hamming.c)
