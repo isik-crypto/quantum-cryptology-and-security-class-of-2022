@@ -17,3 +17,7 @@ Name: SOUMYA KANTI SAHA
 [03/12/2021 Midsem](./Midsem_quantum.pdf)
 
 [10/01/2022 Assignment](./Quantum_parallelization.pdf)
+
+[16/01/2022 Assignment](./DJ_Implementation.pdf)
+
+[10/02/2022 Assignment](./Check_Const_Func_by_DJ.pdf)
