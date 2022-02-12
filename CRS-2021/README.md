@@ -25,3 +25,5 @@ Name: Subha Kar
 [simons algorithm for finding shift](./simons.pdf)
 
 [Midsem](/Q-exam.pdf)
+
+[Diffie-Hellman key exchange](/deffi.c)
