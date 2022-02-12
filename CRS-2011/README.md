@@ -14,4 +14,6 @@ Name: Subir Kumar Paul
 
 [No cloning theorem](./No-cloning-theorem.pdf)
 
+[Super Dence Coding](./Destuch-Algorithm.pdf)
+
 [Hamming Code](./Hamming.c)
