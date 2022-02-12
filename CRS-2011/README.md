@@ -18,4 +18,7 @@ Name: Subir Kumar Paul
 
 [DJ Algorithm](./Destuch-Algorithm.pdf)
 
+[Dj Qiskit ](./DJ_Qiskit.pdf)
+
+
 [Hamming Code](./Hamming.c)
