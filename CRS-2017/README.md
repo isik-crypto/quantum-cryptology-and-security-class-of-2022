@@ -10,4 +10,10 @@ Name: Matta Uma Maheswara Reddy
 
 [Hamming Code for Encoding](./hamc.c)
 
+[Midterm Exam Submission](./CRS2017-Midterm-QuantumCrypto.pdf)
+
+[Endterm Exam Submission](./CRS2017_Quantum_Final.pdf)
+
+
+
 
