@@ -12,4 +12,4 @@ Name: Subir Kumar Paul
 
 [Assignment 6](./Assignment_6.pdf)
 
-[Hamming code](./Hamming.c)
+[No cloning theorem](./No-cloning-theorem.pdf)
