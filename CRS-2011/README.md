@@ -16,4 +16,6 @@ Name: Subir Kumar Paul
 
 [Super Dence Coding](./Destuch-Algorithm.pdf)
 
+[DJ Algorothm](./Destuch-Algorithm.pdf)
+
 [Hamming Code](./Hamming.c)
