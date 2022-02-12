@@ -14,6 +14,6 @@ Name: Indranil Thakur
 
 [(29/10/2021) - Assignment 6](./20211029.pdf)
 
-[(18/01/2022) - Assignment 7](./20220118.pdf)
+[(18/01/2022) - Assignment 7](./Implementation_of_DJ.pdf)
 
-[(12/02/2022) - Assignment 8](./20220212.pdf)
+[(12/02/2022) - Assignment 8](./Constant_Check_by_DJ.pdf)
