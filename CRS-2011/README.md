@@ -20,5 +20,8 @@ Name: Subir Kumar Paul
 
 [Dj Qiskit ](./DJ_Qiskit.pdf)
 
+[Simons in Qiskit](./Simons-algorithm.pdf)
+
+
 
 [Hamming Code](./Hamming.c)
