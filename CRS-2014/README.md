@@ -21,8 +21,8 @@
 
 Exams:
 
-- Mid Sem  ([Question Paper](./Midsem_Question.pdf) | [Answer Script](./Midterm%20exam.pdf))
-- End Sem  ([Question Paper](./Endsem_Question.pdf) | [Answer Script](./Endsem_Exam.pdf))
+- Mid Sem  ([Question Paper](./Midsem_Question.pdf) || [Answer Script](./Midterm%20exam.pdf))
+- End Sem  ([Question Paper](./Endsem_Question.pdf) || [Answer Script](./Endsem_Exam.pdf))
 
 
 Video Lectures Watched:
