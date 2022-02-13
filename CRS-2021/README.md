@@ -31,3 +31,7 @@ Name: Subha Kar
 [Diffie-Hellman key exchange](/deffi.c)
 
 [Hamming Code](/hamming.c)
+
+[TERM PAPER](/qiskit(1).pdf)
+
+
