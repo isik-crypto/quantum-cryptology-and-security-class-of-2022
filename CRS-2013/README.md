@@ -16,7 +16,7 @@
 
 - [Dense Coding Theorem](./Superdensecoding.pdf)
 
-- [Assignment-7](.Assignment-7.pdf)
+- [Assignment-7](./Assignment-7.pdf)
 
 
 Video Lectures Watched:
@@ -33,4 +33,5 @@ IBMQ Implementation:
 
 - [Deutsch Josa implemantation for a given function](./Dj.pdf)
 
-
+TERM Project:
+-[Quantum Error Correction](./termpaper.pdf)
