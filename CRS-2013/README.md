@@ -15,14 +15,14 @@
 - [No Cloning Theorem](./Noclonning.pdf)
 
 - [Dense Coding Theorem](./Superdensecoding.pdf)
-- 
+
 - [Assignment-7](.Assignment-7.pdf)
+
 
 Video Lectures Watched:
 
 - [Quantum Cryptology - Part 0](https://ocw.tudelft.nl/courses/quantum-cryptography/subjects/0-crash-course-quantum-information/)
 - [Quantum Cryptology - Part 1](https://ocw.tudelft.nl/courses/quantum-cryptography/subjects/1-quantum-tools-first-protocol/)
-
 
 C Programming:
 
