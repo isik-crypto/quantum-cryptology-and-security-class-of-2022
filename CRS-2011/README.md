@@ -22,6 +22,9 @@ Name: Subir Kumar Paul
 
 [Simons in Qiskit](./Simons-algorithm.pdf)
 
-
-
 [Hamming Code](./Hamming.c)
+
+
+Term Project:
+
+-[Quantum State and Measurement](./QUANTUM_STATE_AND_MESUREMENT_OPERATORS.pdf)
