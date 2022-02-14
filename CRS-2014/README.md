@@ -48,4 +48,8 @@ IBMQ Implementation:
 - [Simons algorithm implementation for a given function](./Simons_Algorithm_Implementation.pdf)
 
 
-Term Project Submission:
+Term Project Submission : February 13, 2022.
+
+- ([ Title : Quantum Algorithm for the Collision Problem](./Quantum_Term_Project.pdf) || [Reference Paper](./Quantum_Algorithm_for_the_Collision_Problem.pdf))
+
+
