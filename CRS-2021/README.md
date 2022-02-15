@@ -26,12 +26,12 @@ Name: Subha Kar
 
 [simons algorithm for finding shift](./simons.pdf)
 
-[Midsem](/Q-exam.pdf)
+[Midsem](./Q-exam.pdf)
 
-[Diffie-Hellman key exchange](/deffi.c)
+[Diffie-Hellman key exchange](./deffi.c)
 
-[Hamming Code](/hamming.c)
+[Hamming Code](./hamming.c)
 
-[TERM PAPER](/qiskit.pdf)
+[TERM PAPER](./qiskit.pdf)
 
 
