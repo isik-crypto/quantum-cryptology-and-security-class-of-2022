@@ -23,7 +23,7 @@ Name:MARADANA SIVA KUMAR
 
 [13/12/2021 Term Paper](./crs_2016Final_Term_Paper.pdf)
 
-[13/12/2021 Term Paper qiskit implementation of key recovery attack of Even-Mansour cipher](./Even_Mansour _key_recovery_attack.pdf)
+[13/12/2021 Term Paper qiskit implementation of key recovery attack of Even Mansour cipher](./Even_Mansour _key_recovery_attack.pdf)
 
 
 
