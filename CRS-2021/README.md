@@ -32,6 +32,6 @@ Name: Subha Kar
 
 [Hamming Code](/hamming.c)
 
-[TERM PAPER](/qiskit(1).pdf)
+[TERM PAPER](/qiskit.pdf)
 
 
